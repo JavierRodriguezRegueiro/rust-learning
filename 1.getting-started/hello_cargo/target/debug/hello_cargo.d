@@ -1,0 +1,1 @@
+/Users/javierrodriguezregueiro/workspaces/rust-learning/1.getting-started/hello_cargo/target/debug/hello_cargo: /Users/javierrodriguezregueiro/workspaces/rust-learning/1.getting-started/hello_cargo/src/main.rs
